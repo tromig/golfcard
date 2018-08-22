@@ -1,0 +1,327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"char",
+				"Characters"
+			],
+			[
+				"offer",
+				"offerDisclaimer"
+			],
+			[
+				"qu",
+				"qualifiedLinkText"
+			],
+			[
+				"free",
+				"freeItemData"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 204,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Dis",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 127.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/router/src/index.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/router/src/App.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/GATSBY/tutorial-part-four/src/pages/index.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/GATSBY/tutorial-part-four/src/pages/about.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/GATSBY/tutorial-part-four/src/layouts/index.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/GATSBY/tutorial-part-four/src/utils/typography.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/GATSBY/tutorial-part-four/gatsby-config.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/GATSBY/tutorial-part-four/src/pages/all-files.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/GATSBY/tutorial-part-four/src/pages/sweet-pandas-eating-sweets.md",
+		"/G/desktop_1.14.18/temp work/ionic/BM/_golf/www/js/skycons.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/GATSBY/tutorial-part-three/gatsby-config.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/GATSBY/tutorial-part-three/src/utils/typography.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/GATSBY/tutorial-part-three/src/layouts/index.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/GATSBY/tutorial-part-three/src/pages/index.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/GATSBY/tutorial-part-three/src/pages/contact.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/GATSBY/tutorial-part-three/src/pages/about.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/tutorial-part-two/src/pages/index.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/tutorial-part-two/gatsby-config.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/tutorial-part-two/src/components/container.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/tutorial-part-two/src/pages/about-css-modules.module.css",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/tutorial-part-two/src/pages/about-css-modules.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/tutorial-part-two/src/utils/typography.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/tutorial-part-one/src/pages/page-2.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/tutorial-part-one/src/pages/page-3.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/SearchForm/SearchForm.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/tutorial-part-one/src/pages/counter.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/tutorial-part-one/src/pages/index.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/SearchForm/UserList/UserList.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/searchForm/userList/UserItem/UserItem.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/SearchForm/FullInfoPanel/FullInfoPanel.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/SearchForm/FullInfoPanel/FullInfoPanel.css",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/SearchForm/staticUserData.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/SearchForm/FullInfoPanel/FullInfopanel.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/searchForm/SearchInput/SearchInput.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/SearchForm/UserList/UserList.css",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/SearchForm/SearchInput/SearchInput.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/SearchForm/UserList/UserItem/UserItem.css",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/ipaddress/ipaddress/src/IPAddressContainer.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/SearchForm/UserList/UserItem/UserItem.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/Header/Header.css",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/Header/Header.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/public/index.html",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/App.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/SearchForm/SearchInput/SearchInput.css",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/elementTest.html",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/App.css",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/SearchForm/Header/Header.css",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/SearchForm/Header/Header.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/SearchForm/SearchForm.css",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/staticUserData.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/to-do/todolist2/src/index.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/ipaddress/ipaddress/src/index.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/to-do/todolist2/public/index.html",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/to-do/todolist2/src/App.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/userSearch/usersearch/src/index.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/to-do/todolist2/src/App.test.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/ipaddress/ipaddress/public/index.html",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/yelp/src/containers/App/App.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/yelp/src/app.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/ipaddress/ipaddress/src/IPAddress.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/ipaddress/ipaddress/src/index.css",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/ipaddress/ipaddress/src/IPAddress.css",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/to-do/todolist2/src/ToDoItems.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/to-do/todolist/public/index.html",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/to-do/todolist/src/index.css",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/to-do/todolist/src/index.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/to-do/todolist/src/ToDoList.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/to-do/todolist/src/ToDoItems.js",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/to-do/todolist/src/ToDoList.css",
+		"/C/Users/romig/Desktop/web work/_TUTORIALS/to-do/todolist/node_modules/react-flip-move/dist/react-flip-move.es.js",
+		"/C/Users/romig/Desktop/web work/That Emperors Fool/production/css/main.css",
+		"/C/Users/romig/Desktop/web work/That Emperors Fool/production/index.html",
+		"/C/Users/romig/Desktop/web work/react_1/my-app/src/index.js",
+		"/C/Users/romig/AppData/Roaming/FileZilla/filezilla.xml",
+		"/C/Program Files/FileZilla FTP Client/docs/fzdefaults.xml.example",
+		"/C/Users/romig/Desktop/sp js/Play Your Cards Right/cardCarousel.html",
+		"/C/Users/romig/Desktop/web work/That Emperors Fool/production/mundo/index.html",
+		"/C/Users/romig/Desktop/web work/That Emperors Fool/production/css/normalize.css",
+		"/C/Users/romig/Desktop/Ftp a0f13j2gnchw@massapoagstudios.com.xml",
+		"/C/Users/romig/Desktop/Supp Mini-Wizards/newWiz.css",
+		"/C/Users/romig/Desktop/Supp Mini-Wizards/supp-miniWizard_joint_redo.js",
+		"/C/Users/romig/Desktop/sp js/compare_refresh.js",
+		"/C/Users/romig/Desktop/sp js/topLevelFacets_new2.js",
+		"/C/Users/romig/Desktop/sp js/FGWP__template.js",
+		"/C/Users/romig/Desktop/sp js/FGWP__outsmar_leftt.js",
+		"/C/Users/romig/Desktop/sp js/FGWP__outsmar_ref.js",
+		"/C/Users/romig/Desktop/sp js/prodClass_info.js",
+		"/C/Users/romig/Desktop/orderCtrl_redo.js",
+		"/C/Users/romig/Desktop/sp js/PerksBadge_modal.js",
+		"/C/Users/romig/Desktop/sp js/home-refresh-2.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"technology",
+			"Technology",
+			"bootstrapTheme",
+			"class",
+			"  "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "yards.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
