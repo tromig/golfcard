@@ -1,3 +1,10 @@
+/* APP Css */
+
+
+html, body, #root, .App, .App> div {
+    height: 100%;
+}
+
 body {
     background-color: aliceblue;
 }

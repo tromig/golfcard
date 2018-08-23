@@ -16,3 +16,7 @@ class WeatherStrip extends Component{
 }
 
 export default WeatherStrip;
+
+
+
+//https://api.forecast.io/forecast/9b9cc76c28cbd0321ef6b7ce9dedb3e2/42.1565042,-71.1728602
