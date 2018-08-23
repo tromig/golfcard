@@ -6,7 +6,7 @@ const FootButtons = () => {
 
 	return(
 		<div className='footButtons'>
-      		<FootButton link="/course" label='Course' />
+      		<FootButton link="/course/1" label='Course' />
       		<FootButton link="/" label='Scorecard' />
       	</div>
 	);

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import './App.css';
 import Home from './components/Home/Home';
 import Hole from './components/Hole/Hole';
@@ -11,7 +11,7 @@ class App extends Component {
       	<Router className='router'> 
       		<div>       
 	      		<Route exact path='/' component={Home} />
-	      		<Route path='/course' component={Hole} />
+	      		<Route path='/course/:id' component={Hole}  />
 	      	</div>
       	</Router>
       </div>

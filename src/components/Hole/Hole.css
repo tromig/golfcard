@@ -19,7 +19,7 @@
     box-shadow: 0px 1px 12px -3px #b9cad8;
     max-height: 42px;
 }
-.HoleHeader > div {
+.HoleHeader > * {
     align-self: center;
 }
 .HomeArrow {
@@ -27,6 +27,8 @@
     font-weight: 100;
     margin-right: -45px;
     opacity: .5;
+    margin-top: -3px;
+    text-decoration: none;
 }
 .holeLength {
     font-size: 14px;
@@ -50,9 +52,18 @@
     margin-bottom: -1px;
 }
 
-.teeBox.tbBlue {
-    background-color: blue; 
+.teeBox.tbGold {
+    background-color: #d6b617; 
 }
+.teeBox.tbWhite {
+    background-color: #fff; 
+    border: 1px solid #333;
+}
+
+.teeBox.tbRed {
+    background-color: #c75442; 
+}
+
 
 .holeImg {
     margin-bottom: 20px;
@@ -81,14 +92,17 @@
 .prevHole, .nextHole {
     font-size: 18px;
     padding: 0 0.7em;
+    background-color: #f0f8ffe6;
+    text-decoration: none;
+    line-height: 30px;
 }
 
-.HolesNav button {
+.HolesNav button, .HolesNav.nextHole {
     border: none;
     border-right: 1px solid #999;
+    border-left:  1px solid #999;
+    background-color: #f0f8ffe6;
 }
 
-.HolesNav button:last-of-type {
-    border: none;
-}
+
 

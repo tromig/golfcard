@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import holeImg from '../../images/holes/1.jpg'
+
+var images = require.context('../../images/holes/');
 
 class HoleImg extends Component {
 	constructor(props){
@@ -7,9 +8,10 @@ class HoleImg extends Component {
 	}
 
 	render(){
+		const img = images(`./${this.props.id}.jpg`);
 		return(
 			<div className='holeImg'>
-				<img src={ holeImg } alt='hole view' />
+				<img src={ img } alt='hole view' />
 			</div>
 		);
 	}
