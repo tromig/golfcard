@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import logo from '../../images/logo_only.png'
+
 
 class HomeHeader extends Component{
 
@@ -9,7 +11,7 @@ class HomeHeader extends Component{
 	render(){
 		return(
 			<div className="HomeHeader">
-	      		HOME HEADER
+	      		<img src={logo} alt='hdLogo' />
 	      	</div>
 		);
 	}
