@@ -11,7 +11,7 @@ import holeData from '../../holesData/holeData'
 class Hole extends Component {
 	constructor(props){
 		super(props);
-		this.state = { ...this.props.match, holeData, thisHole: this.props.match.params.id };
+		this.state = { ...this.props.match, holeData, thisHole: +this.props.match.params.id };
 
 		this.goToNextHole = this.goToNextHole.bind(this);
 		this.goToPrevHole = this.goToPrevHole.bind(this);

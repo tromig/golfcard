@@ -15,7 +15,7 @@
     justify-content: space-between;
     padding: .5em;
     box-sizing: border-box;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #bbb;
     box-shadow: 0px 1px 12px -3px #b9cad8;
     max-height: 42px;
 }
@@ -34,7 +34,14 @@
     font-size: 14px;
 }
 .HoleNum {
-    font-size: 18px;
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: -24px;
+}
+.HoleNum sup {
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 1px;
 }
 
 .holePar {
@@ -78,6 +85,7 @@
     display: flex;
     justify-content: space-between;
     width: 100%;
+    border-top: 1px solid #bbb;
 }
 
 .scoreHole {
@@ -94,7 +102,7 @@
     padding: 0 0.7em;
     background-color: #f0f8ffe6;
     text-decoration: none;
-    line-height: 30px;
+    line-height: 38px;
 }
 
 .HolesNav button, .HolesNav.nextHole {
@@ -104,5 +112,18 @@
     background-color: #f0f8ffe6;
 }
 
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 812px) 
+and (-webkit-device-pixel-ratio : 3)
+and (orientation : portrait) {
 
+	.App{ background-color: #333; }
+
+	.holeImg img {
+	    width: 102%;
+	    margin-top: 29px;
+	}
+
+}
 

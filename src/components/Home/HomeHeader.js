@@ -12,6 +12,7 @@ class HomeHeader extends Component{
 		return(
 			<div className="HomeHeader">
 	      		<img src={logo} alt='hdLogo' />
+	      		<div className='homeHeadText'>Brook Meadow Country Club</div>
 	      	</div>
 		);
 	}
